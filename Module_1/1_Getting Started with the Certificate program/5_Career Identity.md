@@ -10,7 +10,7 @@ Goals
 
 #### Positive outcomes
 - Improved job performance
-- Greater commitment to a meaningfil career
+- Greater commitment to a meaningful career
 - Enhanced well-being and health
 
 

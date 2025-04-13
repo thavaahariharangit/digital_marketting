@@ -10,7 +10,7 @@
 
 #### Later in the course
 
-- Tools for engagin potential customers and driving online sales
+- Tools for engaging potential customers and driving online sales
 - Digital marketting strategies
 - Measure and interpret results
 - Career Tips

@@ -1,4 +1,4 @@
-### Program and Course1 Overview
+### Program and Course 1 Overview
 
 Seven courses for the Google Digital Marketting & E-commerce Career Certificate.
 
@@ -35,4 +35,4 @@ This course also closes out program with professional development topics to help
 1. Module 1: Introduction to Foundations of digital marketting and e-commerce
 2. Module 2: The customer journey and the marketing funnel
 3. Module 3: Digital marketting and ecommerce strategy
-4. Module 4: Meadure performance success
+4. Module 4: Measure performance success
