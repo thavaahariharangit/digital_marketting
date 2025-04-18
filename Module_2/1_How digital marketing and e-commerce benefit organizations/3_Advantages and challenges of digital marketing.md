@@ -58,7 +58,6 @@ It's harder for marketers to stand out with their advertising, even when they ar
 
 
 ### Key takeaways.
-
 - Various technologies make digital marketing more cost-effective and adaptable than traditional marketing.
 - Digital marketing tools also enable more advanced and targeted audience selection for marketing campaigns. 
 - However, Theses benefits comes with some challenges
