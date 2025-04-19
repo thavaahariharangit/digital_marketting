@@ -10,7 +10,7 @@ And it also includes all media channels before a customer discovers your website
 
 For example, instead of classifying `social media` as a touch point, classify customer's response to a flash sale announcement on Twitter as a touch point. When they `click the link`, they are interested in knowing what they can purchase at a discounted price.
 
-Touch points have context and reflect customer needs. In the example, the context was cutiosity, and the need was saving money.
+Touch points have context and reflect customer needs. In the example, the context was curiosity, and the need was saving money.
 
 
 ### Touchpoints are customer-centric
