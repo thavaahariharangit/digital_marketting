@@ -27,3 +27,14 @@ The Interactive Advertising Bureau (IAB) has designed 13 topics that brand shoul
 2. Understand that scale isn't everything.
 3. Use trusted technology
 
+Some strategies:
+1. Buy ad space directly from reputable publishers.
+2. Use image recongnition
+3. Select keywords to avoid.
+4. Apply geotargeting
+
+### Key takeaways.
+
+- Because it's so integral to your brand's success, brand safety is a topic that takes a lot of careful consideration.
+- Make sure you know what types of topics and content you don't want your brand associated with, and then take action.
+- After you've carefully considered how to maintain brand safety, publishers and tools will help you take your brand safety measures to the next level.
