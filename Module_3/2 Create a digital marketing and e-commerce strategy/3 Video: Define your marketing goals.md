@@ -34,3 +34,5 @@ Some common marketing goals include: raising brand awareness, increasing web tra
 
 Business goals are long-term aims that can impact a company at all levels. 
 Marketing goals are specific to marketing efforts, but should always contribute to business-wide aims.
+
+
