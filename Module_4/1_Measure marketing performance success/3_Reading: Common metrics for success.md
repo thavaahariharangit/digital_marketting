@@ -34,3 +34,10 @@ You'll track and analyze sales coversion rates, average order values, and cart a
 You'll want to consider customer retention rate and customer lifetime value.
 
 
+### Key takeaways
+
+Tracking metrics is critical to a campaign's success
+Metrics help digital marketers gauge effectiveness and audience contentment while a campaign is happening.
+They also help marketers gain information and insights they can use for future campaigns.
+
+
