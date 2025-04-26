@@ -14,3 +14,9 @@ Email segmentation is the practice of dividing an email subscribers list into sm
 
 **Personalization:**
 Customizing email content for individual subscribers
+
+**Personalization:**
+- Address each recipient directly
+- Send promotions for special events (Like Birthday)
+- Send messages that match where customers are in the marketing funnel
+- Follow up on previous interactions.
