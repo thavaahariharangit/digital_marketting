@@ -20,8 +20,6 @@ A high bounce rate means that even when users come to your website form search, 
 - Make website navigation crawler friendly
 
 
-
-
 ### HTTPS
 An internet communication protocol that protects the integrity and confidentiality of data between the user's computer and the site.
 
