@@ -15,3 +15,11 @@ Avoid creating a title element with default text like "Unititled" or "New Page 1
 - Ensure every page has unique title element
 - Brief, but descriptive
 
+### Meta description recommendations
+- Add to every page
+- Accurately summarize the page content
+- Use unique descriptions for each page
+
+
+
+
