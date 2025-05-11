@@ -1,0 +1,1 @@
+https://www.coursera.org/learn/attract-and-engage-customers/supplement/9x1In/activity-exemplar-improve-webpage-titles-and-meta-descriptions
