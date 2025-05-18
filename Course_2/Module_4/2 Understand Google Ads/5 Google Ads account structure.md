@@ -1,8 +1,5 @@
 ## Google Ads account structure and organization explanation.
 
--**Google Ads:** online advertising program, that you can create online ads
-
-
 ```mermaid
 graph TD
     A[Google Ads Account] --> B[Campaign 1]
