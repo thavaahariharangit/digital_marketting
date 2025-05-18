@@ -4,11 +4,11 @@
 
 
 ```mermaid
-  graph TD;
-      Google Ads Account --> Campaign 1;
-      Google Ads Account --> Campaign 2;
-      Campaign 1 --> Ads Group 1A;
-      Campaign 1 --> Ads Group 1B;
-      Campaign 2 --> Ads Group 2A;
-      Campaign 2 --> Ads Group 2B;
+graph TD
+    A[Google Ads Account] --> B[Campaign 1]
+    A --> C[Campaign 2]
+    B --> D[Ads Group 1A]
+    B --> E[Ads Group 1B]
+    C --> F[Ads Group 2A]
+    C --> G[Ads Group 2B]
 ```
