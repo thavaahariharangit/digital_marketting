@@ -60,3 +60,6 @@
 
 - **Visitors:** The total number of times people have been to a website or app as a result of clicking an ad
 
+
+
+Ref: https://docs.google.com/document/d/1ODNsZH7VhzF1IjAsh8uaPXsXzXZ3-FL9XNiuCfdwbx8/template/preview#heading=h.7j94lwlegv4p
