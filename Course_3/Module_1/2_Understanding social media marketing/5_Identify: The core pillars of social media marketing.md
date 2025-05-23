@@ -4,7 +4,6 @@
 - Host a kick-off meeting to define business goals for an upcoming campaign.
 - Use target audience data to identify social media platforms for an upcoming campaign.
 
-
 ### Planning and publishing
 - Schedule a series of posts to promote a specific product.
 - Create a content series for month, when the audience is most engaged.
@@ -16,7 +15,6 @@
 ### Analytics and reporting
 - Give a quarterly upate about social media growth to stakeholders.
 - Review engagement to identiy popular content.
-
 
 ### Paid social media
 - Buy social media ads when current campaign engagement drops.
