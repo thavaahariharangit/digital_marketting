@@ -40,3 +40,11 @@ Time-bound
 - **Social media target audience:** The specific group of people a company wants to reach on social media platforms
 
 - **Target audience:** The group of people most likely to purchase a company's products
+
+
+Strategy
+Planning and publishing
+Listening and engagement
+analytics and reporting
+paid social media
+
